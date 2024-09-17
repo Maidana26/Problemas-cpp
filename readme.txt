@@ -26,6 +26,3 @@ abreviacion de palabras con comillas como: l’aere, m’appario, d’ogne, etc.
 palabras por separado, l y aere, m y appario, d y ogne, etc. No tenemos en cuenta que la primera palabra no esta 
 completa la tomamos como una nueva palabra.
  
-Quisieramos agradecer a toda la catedra de la materia por el año de cursada y los momento compartidos.
-
-atte Matias y Luca
